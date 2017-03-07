@@ -1,2 +1,2 @@
-# plasticity_lecture
-plasticity_lecture
+# 금속 유동해석
+- 창원대학교 메카트로닉스대학 신소재공학부 전공선택 과목 "금속 유동 해석" 수업 자료
